@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo/workload_1024.svg" alt="workload logo" width="250"/>
+  <img src="./logo/workload_1024.png" alt="workload logo" width="250"/>
 </p>
 
 <div align="center">
